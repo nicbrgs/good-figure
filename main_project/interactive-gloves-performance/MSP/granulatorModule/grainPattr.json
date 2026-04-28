@@ -1,0 +1,99 @@
+{
+	"pattrstorage" : 	{
+		"name" : "grainPattr_left",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"DENSITY_grainsLeft" : [ 0.0 ],
+					"GAIN_grainsLeft" : [ 0.0 ],
+					"PITCH_grainsLeft" : [ 0.0 ],
+					"POSITION_grainsLeft" : [ 0.0 ],
+					"SIZE_grainsLeft" : [ 0 ],
+					"SPRAY_grainsLeft" : [ 0 ],
+					"SPREAD_grainsLeft" : [ 0 ],
+					"slider" : [ 90.213273452472691 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"DENSITY_grainsLeft" : [ 11.0 ],
+					"GAIN_grainsLeft" : [ 0.0 ],
+					"PITCH_grainsLeft" : [ 541.0 ],
+					"POSITION_grainsLeft" : [ 0.67 ],
+					"SIZE_grainsLeft" : [ 51 ],
+					"SPRAY_grainsLeft" : [ 364 ],
+					"SPREAD_grainsLeft" : [ 79 ],
+					"slider" : [ 0.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"DENSITY_grainsLeft" : [ 24.0 ],
+					"GAIN_grainsLeft" : [ 0.0 ],
+					"PITCH_grainsLeft" : [ 71.801429499645096 ],
+					"POSITION_grainsLeft" : [ 0.261215101890763 ],
+					"SIZE_grainsLeft" : [ 51 ],
+					"SPRAY_grainsLeft" : [ 93 ],
+					"SPREAD_grainsLeft" : [ 112 ],
+					"slider" : [ 71.801429499645096 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"DENSITY_grainsLeft" : [ 73.0 ],
+					"GAIN_grainsLeft" : [ 0.0 ],
+					"PITCH_grainsLeft" : [ 41.761056415148346 ],
+					"POSITION_grainsLeft" : [ 0.14157796628748 ],
+					"SIZE_grainsLeft" : [ 88 ],
+					"SPRAY_grainsLeft" : [ 39 ],
+					"SPREAD_grainsLeft" : [ 66 ],
+					"slider" : [ 41.761056415148346 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"DENSITY_grainsLeft" : [ 23.0 ],
+					"GAIN_grainsLeft" : [ 0.0 ],
+					"PITCH_grainsLeft" : [ 90.213273452472691 ],
+					"POSITION_grainsLeft" : [ 0.054275186345021 ],
+					"SIZE_grainsLeft" : [ 100 ],
+					"SPRAY_grainsLeft" : [ 894 ],
+					"SPREAD_grainsLeft" : [ 24 ],
+					"slider" : [ 90.213273452472691 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"DENSITY_grainsLeft" : [ 18.0 ],
+					"GAIN_grainsLeft" : [ 0.0 ],
+					"PITCH_grainsLeft" : [ 90.213273452472691 ],
+					"POSITION_grainsLeft" : [ 0.322650401930032 ],
+					"SIZE_grainsLeft" : [ 114 ],
+					"SPRAY_grainsLeft" : [ 198 ],
+					"SPREAD_grainsLeft" : [ 107 ],
+					"slider" : [ 90.213273452472691 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

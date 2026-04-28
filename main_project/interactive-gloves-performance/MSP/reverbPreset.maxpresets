@@ -1,0 +1,15 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 5, "obj-179", "live.dial", "float", 0.0, 5, "obj-184", "live.dial", "float", 15.118110656738281 ]
+		}
+, 		{
+			"number" : 2,
+			"data" : [ 5, "obj-179", "live.dial", "float", 0.125979870557785, 5, "obj-184", "live.dial", "float", 13.700807571411133 ]
+		}
+, 		{
+			"number" : 3,
+			"data" : [ 5, "obj-179", "live.dial", "float", 0.118110239505768, 5, "obj-184", "live.dial", "float", 15.118110656738281 ]
+		}
+ ]
+}

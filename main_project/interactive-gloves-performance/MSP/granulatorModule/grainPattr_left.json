@@ -1,0 +1,23 @@
+{
+	"pattrstorage" : 	{
+		"name" : "grainPattr_left",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"DENSITY_grainsLeft" : [ 0.0 ],
+					"SPREAD_grainsLeft" : [ 0 ],
+					"SPRAY_grainsLeft" : [ 0 ],
+					"PITCH_grainsLeft" : [ 0.0 ],
+					"SIZE_grainsLeft" : [ 0 ],
+					"POSITION_grainsLeft" : [ 0.0 ],
+					"GAIN_grainsLeft" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

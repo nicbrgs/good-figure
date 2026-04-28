@@ -1,0 +1,35 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 5, "obj-429", "number", "float", 0.300000011920929, 5, "obj-412", "number", "float", 0.0, 5, "obj-409", "number", "float", 0.600000023841858, 5, "obj-400", "number", "float", 0.730000019073486, 5, "obj-396", "number", "float", 5.5 ]
+		}
+, 		{
+			"number" : 2,
+			"data" : [ 5, "obj-429", "number", "float", 0.300000011920929, 5, "obj-412", "number", "float", 0.699999988079071, 5, "obj-409", "number", "float", 0.0, 5, "obj-400", "number", "float", 0.819999992847443, 5, "obj-396", "number", "float", 16.299999237060547 ]
+		}
+, 		{
+			"number" : 3,
+			"data" : [ 5, "obj-429", "number", "float", 0.970000028610229, 5, "obj-412", "number", "float", 0.0, 5, "obj-409", "number", "float", 0.0, 5, "obj-400", "number", "float", 0.800000011920929, 5, "obj-396", "number", "float", 0.850000023841858 ]
+		}
+, 		{
+			"number" : 4,
+			"data" : [ 5, "obj-429", "number", "float", 0.0, 5, "obj-412", "number", "float", 0.0, 5, "obj-409", "number", "float", 0.239999994635582, 5, "obj-400", "number", "float", 0.100000001490116, 5, "obj-396", "number", "float", 1.5 ]
+		}
+, 		{
+			"number" : 5,
+			"data" : [ 5, "obj-429", "number", "float", 0.600000023841858, 5, "obj-412", "number", "float", 0.474000006914139, 5, "obj-409", "number", "float", 0.490000009536743, 5, "obj-400", "number", "float", 0.100000001490116, 5, "obj-396", "number", "float", 0.389999985694885 ]
+		}
+, 		{
+			"number" : 6,
+			"data" : [ 5, "obj-429", "number", "float", 0.600000023841858, 5, "obj-412", "number", "float", 0.474000006914139, 5, "obj-409", "number", "float", 0.490000009536743, 5, "obj-400", "number", "float", 0.720000028610229, 5, "obj-396", "number", "float", 11.399999618530273 ]
+		}
+, 		{
+			"number" : 7,
+			"data" : [ 5, "obj-429", "number", "float", 0.25, 5, "obj-412", "number", "float", 1.0, 5, "obj-409", "number", "float", 0.860000014305115, 5, "obj-400", "number", "float", 0.75, 5, "obj-396", "number", "float", 10.0 ]
+		}
+, 		{
+			"number" : 8,
+			"data" : [ 5, "obj-429", "number", "float", 0.639999985694885, 5, "obj-412", "number", "float", 1.0, 5, "obj-409", "number", "float", 0.0, 5, "obj-400", "number", "float", 0.550000011920929, 5, "obj-396", "number", "float", 15.0 ]
+		}
+ ]
+}

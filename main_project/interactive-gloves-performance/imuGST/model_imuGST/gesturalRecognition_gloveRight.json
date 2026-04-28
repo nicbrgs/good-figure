@@ -1,0 +1,22 @@
+{
+   "configuration" : {
+      "default_parameters" : {
+         "absolute_regularization" : 0.10000000000000001,
+         "covariance_mode" : 0,
+         "gaussians" : 3,
+         "relative_regularization" : 0.10000000000000001
+      },
+      "multiClass_regression_estimator" : 0,
+      "multithreading" : 2
+   },
+   "models" : [],
+   "shared_parameters" : {
+      "bimodal" : false,
+      "dimension" : 1,
+      "dimension_input" : 0,
+      "em_algorithm_max_iterations" : 0,
+      "em_algorithm_min_iterations" : 10,
+      "em_algorithm_percent_chg" : 0.01,
+      "likelihood_window" : 1
+   }
+}

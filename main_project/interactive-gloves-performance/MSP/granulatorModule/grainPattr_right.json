@@ -1,0 +1,99 @@
+{
+	"pattrstorage" : 	{
+		"name" : "grainPattr_right",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"DENSITY_grainsRight" : [ 0.0 ],
+					"GAIN_grainsRight" : [ 4.7 ],
+					"PITCH_grainsRight" : [ 0.0 ],
+					"POSITION_grainsRight" : [ 0.0 ],
+					"SIZE_grainsRight" : [ 0 ],
+					"SPRAY_grainsRight" : [ 0 ],
+					"SPREAD_grainsRight" : [ 0 ],
+					"slider" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"DENSITY_grainsRight" : [ 6.0 ],
+					"GAIN_grainsRight" : [ 4.7 ],
+					"PITCH_grainsRight" : [ 34.354013363508273 ],
+					"POSITION_grainsRight" : [ 0.260824922290521 ],
+					"SIZE_grainsRight" : [ 117 ],
+					"SPRAY_grainsRight" : [ 155 ],
+					"SPREAD_grainsRight" : [ 358 ],
+					"slider" : [ 34.354013363508273 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"DENSITY_grainsRight" : [ 5.0 ],
+					"GAIN_grainsRight" : [ 0.0 ],
+					"PITCH_grainsRight" : [ 107.42218616037114 ],
+					"POSITION_grainsRight" : [ 0.695666353456596 ],
+					"SIZE_grainsRight" : [ 72 ],
+					"SPRAY_grainsRight" : [ 712 ],
+					"SPREAD_grainsRight" : [ 134 ],
+					"slider" : [ 107.42218616037114 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"DENSITY_grainsRight" : [ 12.0 ],
+					"GAIN_grainsRight" : [ 0.0 ],
+					"PITCH_grainsRight" : [ 107.42218616037114 ],
+					"POSITION_grainsRight" : [ 0.695666353456596 ],
+					"SIZE_grainsRight" : [ 55 ],
+					"SPRAY_grainsRight" : [ 24 ],
+					"SPREAD_grainsRight" : [ 134 ],
+					"slider" : [ 107.42218616037114 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"DENSITY_grainsRight" : [ 41.0 ],
+					"GAIN_grainsRight" : [ 0.0 ],
+					"PITCH_grainsRight" : [ 107.42218616037114 ],
+					"POSITION_grainsRight" : [ 0.361172944867308 ],
+					"SIZE_grainsRight" : [ 202 ],
+					"SPRAY_grainsRight" : [ 889 ],
+					"SPREAD_grainsRight" : [ 429 ],
+					"slider" : [ 107.42218616037114 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"DENSITY_grainsRight" : [ 12.0 ],
+					"GAIN_grainsRight" : [ 0.0 ],
+					"PITCH_grainsRight" : [ 107.42218616037114 ],
+					"POSITION_grainsRight" : [ 0.810383269124786 ],
+					"SIZE_grainsRight" : [ 23 ],
+					"SPRAY_grainsRight" : [ 202 ],
+					"SPREAD_grainsRight" : [ 160 ],
+					"slider" : [ 107.42218616037114 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

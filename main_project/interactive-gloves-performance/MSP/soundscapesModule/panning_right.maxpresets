@@ -1,0 +1,27 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 5, "obj-659", "number", "float", 0.920000016689301, 5, "obj-657", "number", "float", 0.920000016689301, 5, "obj-655", "number", "float", 1.0, 5, "obj-653", "number", "float", 1.0 ]
+		}
+, 		{
+			"number" : 2,
+			"data" : [ 5, "obj-659", "number", "float", 0.899999976158142, 5, "obj-657", "number", "float", 0.899999976158142, 5, "obj-655", "number", "float", 0.980000019073486, 5, "obj-653", "number", "float", 0.980000019073486 ]
+		}
+, 		{
+			"number" : 3,
+			"data" : [ 5, "obj-659", "number", "float", 0.699999988079071, 5, "obj-657", "number", "float", 0.699999988079071, 5, "obj-655", "number", "float", 0.899999976158142, 5, "obj-653", "number", "float", 0.899999976158142 ]
+		}
+, 		{
+			"number" : 4,
+			"data" : [ 5, "obj-659", "number", "float", 0.5, 5, "obj-657", "number", "float", 0.5, 5, "obj-655", "number", "float", 0.5, 5, "obj-653", "number", "float", 0.5 ]
+		}
+, 		{
+			"number" : 5,
+			"data" : [ 5, "obj-659", "number", "float", 0.100000001490116, 5, "obj-657", "number", "float", 0.100000001490116, 5, "obj-655", "number", "float", 0.019999999552965, 5, "obj-653", "number", "float", 0.019999999552965 ]
+		}
+, 		{
+			"number" : 6,
+			"data" : [ 5, "obj-659", "number", "float", 0.019999999552965, 5, "obj-657", "number", "float", 0.019999999552965, 5, "obj-655", "number", "float", 0.0, 5, "obj-653", "number", "float", 0.0 ]
+		}
+ ]
+}
